@@ -7,4 +7,5 @@ const speechSchema = mongoose.Schema({
 
 const SpeechModal = mongoose.model("EKSAQ",speechSchema);
 
+
 module.exports ={SpeechModal}
